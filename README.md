@@ -1,3 +1,2 @@
 # Thobes
-Classification model using TensorFlow that identify white thob wearers  
-The model isn't ideal and sometimes gets stuff wrong 100% of times 
+This TensorFlow-based classification model is designed to identify individuals wearing white thobs (traditional clothing) in images. While the model serves its purpose, it's important to note that it may not be perfect and can sometimes make incorrect predictions. 
